@@ -1,4 +1,4 @@
-Microsoft has approached William Adams and me to review over 6,500 movies ranging from 1986-2016 in order to see which movie would be the most profitable.
+Microsoft has approached William Adams and me to help them decide what kind of movie will do well for their new movie business. We reviewed over 6,500 movies ranging from 1986-2016 in order to see which movie would be the most profitable.
 Through careful analysis of the data set using many different built in Panda's methods, William and I made Pandas DataFrames and then made various Pandas and Seaborn graphs to show the correlations between 4 distinct categories and profit.
     Genre: Which genres create the most profit
     Average lengths of the films
